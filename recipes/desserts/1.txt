@@ -1,0 +1,24 @@
+nome: Torta di mele
+livello: 1
+minuti: 60
+persone: 5
+diametro: 20
+---ingredients---
+zucchero: 120 g
+uova: 3
+burro: 100 g
+mele: 2
+lievito: 1 bustina    
+latte:                        1 bicchiere
+farina: 250 g
+zucchero di canna
+---description---
+In una ciotola lavorate uova e zucchero fino ad ottenere un composto chiaro e spumoso.
+Unite il burro fuso e la farina e amalgamate accuratamente.
+Sciogliete il lievito nel latte ed amalgamatelo al composto.
+Lavate le mele e tagliatene una a pezzi piccoli, raccoglieteli in una ciotola, aggiungetevi un cucchiaio di farina, uno di zucchero di canna e la cannella, mescolate bene e lasciate riposare per 10 minuti.
+Aggiungete i pezzetti di mela all'impasto e amalgamate per bene.
+Versate l'impasto in una teglia imburrata e infarinata.
+Tagliate la mela restante a fettine sottili, disponetele sulla superficie e cospargete con un cucchiaio di zucchero di canna.
+Infornate a 160° per 35-40 minuti.
+Lasciate riposare a forno spento per 5 minuti con lo sportello aperto

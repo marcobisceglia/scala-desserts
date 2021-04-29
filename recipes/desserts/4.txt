@@ -1,0 +1,24 @@
+nome: Tiramisù
+livello: 1
+minuti: 510
+persone: 10
+---ingredients---
+biscotti savoiardi: 2 confezioni
+mascarpone: 500 g
+uova: 6
+cucchiai di zucchero: 10
+caffé
+cacao amaro
+rum
+---description---
+Separare albume e tuorlo delle uova e montare l'albume a neve
+Mescolare i tuorli con lo zucchero
+Aggiungere il mascarpone e un po' di albume se necessario per rendere la crema più facile da mescolare
+Mescolare la neve dolcemente con un cucchiaio, con movimenti dal basso verso l'alto, in modo da non smontarla. Opzionalmente si può aggiungere anche un po' di panna montata, sempre da mescolare a mano
+Distribuire un po' di crema sul fondo di una pirofila
+Aggiungere un po' di rum al caffè
+Inzuppare i biscotti nel caffè e disporli nella pirofila
+Stenedere uno strato abbondante di crema.
+Proseguire con un nuovo strato di biscotti inzuppati e crema fino all'esaurimento della crema al mascarpone.
+Coprire l'ultimo strato di crema con una spolverizzata abbondante di cacao amaro
+Per un tiramisù ancora più goloso, aggiungere cacao amaro anche negli strati intermedi, o gocce di cioccolato.

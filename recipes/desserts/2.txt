@@ -1,0 +1,24 @@
+nome: Cheesecake alla marmellata senza cottura
+livello: 1
+minuti: 270
+persone: 12
+diametro: 24
+---ingredients---
+biscotti Digestive: 300 g
+burro: 125 g
+crescenza o certosa: 320 g
+ricotta: 250 g
+latte: 30 ml
+colla di pesce: 3 fogli
+zucchero: 120 g
+marmellata (ai mirtilli, frutti di bosco o fragole): 300 g
+frutti di bosco
+---description---
+Sciogliere il burro a fuoco lento in un pentolino ed amalgamarlo ai biscotti ridotti in polvere con un frullatore
+Rivestire uno stampo a cerniera per torte rotondo con carta da forno bagnata e strizzata (rende più facile adattarla allo stampo)
+Distribuire il composto di biscotti sul fondo della tortiera creando uno strato omogeneo, pressando bene col cucchiaio in modo da compattare il tutto e riporre in congelatore per 15 minuti
+Mettere la colla di pesce in ammollo in acqua fredda per 10 minuti
+Versare in una ciotola crescenza, ricotta e zucchero e amalgamare con la frusta elettrica per ottenere una crema omogenea e senza grumi
+Strizzare la colla di pesce e scioglierla a fuoco lento in un pentolino contenente il latte, dopodichè aggiungere il tutto alla crema, filtrando con un colino
+Versare la crema all'interno dello stampo e lasciare riposare in frigorifero per 4 ore
+Spalmare la marmellata sulla cheesecake, guarnire con i frutti di bosco, estrarre dallo stampo e servire a fette
